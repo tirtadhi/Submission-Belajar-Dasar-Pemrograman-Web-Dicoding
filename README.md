@@ -1,5 +1,5 @@
 # Dicoding Submission: Belajar Dasar Pemrograman Web Dicoding
-[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717.svg?&style=flat&logo=github&logoColor=white)](https://tirtadhi.github.io/)[![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)[![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717.svg?&style=flat&logo=github&logoColor=white)](https://tirtadhi.github.io/)[![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)[![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 
 
 This repository is the result of my submission in [Dicoding](https://www.dicoding.com) in the class [Learning the Basics of Web Programming](https://www.dicoding.com/academies/123/)
